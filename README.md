@@ -9,7 +9,12 @@ Repositorio del control de versiones para la materia Computación Gráfica e Int
 
 <p>Alumno: Gustavo Santana Sanchez </p>
 <p>No. de cuenta: 320181520 </p>
+<p>No. de practica: 01 </p>
 <p>Grupo de laboratorio: 03 </p>
 <p>Grupo de teoría: 06 </p>
 <p>Semestre: 2026-1 </p>
 </div>
+
+
+
+NOTA: La practica se realizó en Linux.
