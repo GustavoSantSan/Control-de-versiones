@@ -13,3 +13,8 @@ Repositorio del control de versiones para la materia Computación Gráfica e Int
 <p>Grupo de teoría: 06 </p>
 <p>Semestre: 2026-1 </p>
 </div>
+
+
+
+
+NOTA: La práctica se realizó en Linux.
