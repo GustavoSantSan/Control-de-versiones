@@ -1,0 +1,77 @@
+# Blender 4.5.3 LTS MTL File: 'practica6.blend'
+# www.blender.org
+
+newmtl chrome
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd placa.png
+
+newmtl glass
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 0.608041
+illum 6
+map_Kd glass_normal.png
+map_Bump -bm 1.000000 glass_normal.png
+
+newmtl interior
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd interior_baseColor.png
+map_Bump -bm 1.000000 glass_normal.png
+
+newmtl lights
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd lights_baseColor.png
+
+newmtl mirror
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd glass_baseColor.png
+map_Bump -bm 1.000000 glass_normal.png
+
+newmtl nodamage.001
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd carroseria2.png
+map_Bump -bm 1.000000 glass_normal.png
+
+newmtl undercarriage
+Ns 6.000004
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.117647 0.117647 0.117647
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd undercarriage_baseColor.png
+map_Bump -bm 1.000000 glass_normal.png
